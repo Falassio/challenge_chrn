@@ -13,6 +13,7 @@ Challenge*.pdf
 output/
 tmp/
 *.html
+!day1/examples/*.html
 
 .vscode/
 .idea/
