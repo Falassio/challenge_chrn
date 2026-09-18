@@ -10,6 +10,9 @@ venv/
 
 .pytest_cache/
 Challenge*.pdf
+output/
+tmp/
+*.html
 
 .vscode/
 .idea/
