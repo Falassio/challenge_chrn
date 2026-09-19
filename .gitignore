@@ -14,6 +14,9 @@ output/
 tmp/
 *.html
 !day1/examples/*.html
+*.db
+*.sqlite
+*.sqlite3
 
 .vscode/
 .idea/
